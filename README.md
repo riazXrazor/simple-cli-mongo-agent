@@ -1,4 +1,4 @@
-# simple_agent_js
+# simple-cli-mongo-agent
 
 A MongoDB Database Agent powered by Google's Gemini AI. This interactive CLI tool allows you to manage users in a MongoDB database through natural language conversations. The agent uses function calling to perform database operations like creating, finding, listing, and deleting users.
 
